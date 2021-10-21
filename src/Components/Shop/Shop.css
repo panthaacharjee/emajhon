@@ -1,0 +1,19 @@
+.shop{
+    display: flex;
+}
+.cart-container{
+    margin-left:1040px;
+    position: fixed;
+    float: right;
+    background-color: tomato;
+    padding: 30px 60px;
+}
+.cart-container a{
+   padding: 10px 19px;
+   background-color: rgb(218, 218, 44);
+   border-radius: 5px;
+   font-size: 18px;
+}
+h4{
+    margin-top: 5px;
+}
